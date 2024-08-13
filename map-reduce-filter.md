@@ -56,10 +56,3 @@ Try to refactor the following code snippets using different array methods. Discu
    }
    console.log(doubleNumbers);
    ```
-
-#### Conclusion:
-By the end of this discussion, you should be able to clearly differentiate between `reduce`, `filter`, and `map`, and understand when and why to use each method in your JavaScript code.
-
----
-
-This starter is designed to engage students in a hands-on and thought-provoking way, encouraging them to not only understand the differences in theory but also apply them in practice.
